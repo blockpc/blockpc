@@ -8,7 +8,7 @@
 
 Hola, soy Juan Carlos 👋
 
-Soy desarrollador backend especializado en Laravel (actualmente trabajando con Laravel 12 y Livewire 3), enfocado en construir arquitecturas limpias, mantenibles y escalables. Tengo experiencia implementando sistemas de permisos complejos, autenticación personalizada y manejo avanzado de datos de usuario.
+Soy desarrollador backend especializado en Laravel (actualmente trabajando con Laravel 12 y Livewire 4), enfocado en construir arquitecturas limpias, mantenibles y escalables. Tengo experiencia implementando sistemas de permisos complejos, autenticación personalizada y manejo avanzado de datos de usuario.
 
 Me gusta diseñar soluciones a medida, desde comandos de consola hasta seeders modulares, siempre cuidando la calidad del código y el diseño de bases de datos. Además, me mantengo actualizado integrando nuevas APIs y tecnologías según las necesidades de cada proyecto.
 
